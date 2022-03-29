@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/Saymon-Kauffmann">
-  <img height="160m" src="https://github-readme-stats.vercel.app/api?username=Saymon-Kauffmann&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saymon-Kauffmann&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Saymon-Kauffmann&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saymon-Kauffmann&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
